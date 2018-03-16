@@ -1,0 +1,22 @@
+{
+  "basics":{
+    "objective":"all are true"
+  },
+  "education":[
+  {
+
+    "degree":"B.Tech(computer science of engineering)",
+    "college":"klm engineering college",
+    "data":["2014-18","65%"]
+},
+  {
+    "degree":"intermediate",
+    "college":"abhyasa junior college",
+    "data":["2012-14","81%"]
+  },
+  {
+    "degree":"ssc",
+    "college":"gautam high schol",
+    "data":["2011-12","92%"]
+  }
+]
